@@ -1,19 +1,15 @@
-# Project Name
+# axios-example
 
-## Title with horizontal line :
+axios provides an easy way to send HTTP request like what request module did.
 
-### Title without horizontal line:
+The difference between axios and request is that axios support ES6 Promise itself.  
+Howevere, request need you to install another module to do that.
 
-[link](https://google.com)  
+## Installation :
 
-[Anchor](#description)
-
-*Italic*  
-
-**Strong**
-
-# Chapter
-
+Just type the following command to install it.
 ```=bash
-Code or Command ...
+yarn add axios
+// or
+npm install axios --save
 ```
